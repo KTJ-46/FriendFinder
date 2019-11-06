@@ -30,7 +30,7 @@ var friends = [
           "4",
           "5"
         ]
-      }
+      },
     {
       name: "Ross Geller",
       photo: "https://vignette.wikia.nocookie.net/friends/images/0/0b/RossGeller.jpg/revision/latest?cb=20180424154547",
